@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  margin: 20px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+header{
+  background-color: #a3d1de;
+  padding: 20px;
+}
+
+p a{
+  color: blue;
+  text-decoration: underline;
+}
+
+.active{
+  color: rgb(201, 98, 98);
+}
